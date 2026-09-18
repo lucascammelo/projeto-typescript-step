@@ -1,0 +1,25 @@
+{
+  "name": "projeto-typescript-step",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc && node  ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucascammelo/projeto-typescript-step.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lucascammelo/projeto-typescript-step/issues"
+  },
+  "homepage": "https://github.com/lucascammelo/projeto-typescript-step#readme"
+}
